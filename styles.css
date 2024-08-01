@@ -4,7 +4,7 @@
     padding: 5px;
 }
 .banner-section-bg-container {
-    background-image: url("https://www.i-com.it/wp-content/uploads/2021/07/money-transfer-Mobile-banking-business-buy-communication-concept-1445247-pxhere.com_-1068x756.jpg");
+    background-image: url("./images\ \(1\).jpg");
     height: 100vh;
     background-size: cover;
   }
@@ -15,7 +15,7 @@
     font-weight: 300;
   }
   .banner-caption {
-    color: black;
+    color: rgb(201, 200, 200);
     font-family: "Roboto";
     font-size: 24px;
     font-weight: 300;
